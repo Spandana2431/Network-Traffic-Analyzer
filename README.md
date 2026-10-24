@@ -11,14 +11,16 @@ A lightweight Python tool for capturing, analyzing, and reporting on local netwo
 
 ## Project Structure
 
-`Network-Traffic-Analysis/
+```
+Network-Traffic-Analysis/
 ├── main.py # Entry point
 ├── packet_capture.py # Packet capture module
 ├── traffic_analysis.py # Traffic parsing & analysis
 ├── detection.py # Anomaly / threat detection
 ├── reportGenerator.py # HTML report generator
 ├── README.md
-└── images/ # Screenshots / assets`
+└── images/ # Screenshots / assets
+```
 
 
 ## Getting Started
