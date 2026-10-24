@@ -18,8 +18,7 @@ Network-Traffic-Analysis/
 ├── traffic_analysis.py # Traffic parsing & analysis
 ├── detection.py # Anomaly / threat detection
 ├── reportGenerator.py # HTML report generator
-├── README.md
-└── images/ # Screenshots / assets
+└── README.md
 ```
 
 
